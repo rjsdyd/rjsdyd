@@ -61,11 +61,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjsdyd&show_icons=true&theme=vibrant&cache_seconds=1800" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsdyd&layout=compact&theme=vibrant&cache_seconds=1800" alt="Most Used Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rjsdyd&show_icons=true&theme=radical" alt="rjsdyd's GitHub stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rjsdyd&layout=compact&theme=radical" alt="rjsdyd's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjsdyd&theme=radical" alt="rjsdyd's GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 ### 📧 Contact
 <p>
