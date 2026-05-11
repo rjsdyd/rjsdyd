@@ -5,13 +5,12 @@
 
 <br>
 
-## 안녕하세요,
-## ✨ **디자인의 의도를 코드로 완벽하게 구현하고 싶은** ✨
-## 프론트엔드 개발자 **이건용**입니다.
-사용자가 마주하는 첫 번째 순간을 가치 있게 만들기 위해 고민합니다.
+<span style="font-size: 24px; font-weight: bold;">안녕하세요,</span><br>
+<span style="font-size: 24px; font-weight: bold;">✨ 디자인의 의도를 코드로 완벽하게 구현하고 싶은 ✨</span><br>
+<span style="font-size: 24px; font-weight: bold;">프론트엔드 개발자 이건용입니다.</span><br>
+<p>사용자가 마주하는 첫 번째 순간을 가치 있게 만들기 위해 고민합니다.</p>
 
 <br>
-
 ---
 
 ### 💻 Tech Stacks
