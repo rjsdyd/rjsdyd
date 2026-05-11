@@ -11,7 +11,6 @@
 <p>사용자가 마주하는 첫 번째 순간을 가치 있게 만들기 위해 고민합니다.</p>
 
 <br>
----
 
 ### 💻 Tech Stacks
 
@@ -49,7 +48,6 @@
 
 <br>
 
----
 
 ### 📜 Certificates
 <div align="left">
@@ -60,16 +58,15 @@
 
 <br>
 
----
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rjsdyd&show_icons=true&theme=prowhite&bg_color=f0fff4&title_color=2e7d32&icon_color=4caf50&text_color=1b5e20" alt="rjsdyd's GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsdyd&layout=compact&theme=prowhite&bg_color=f0fff4&title_color=2e7d32&text_color=1b5e20" alt="Most Used Languages" />
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjsdyd&show_icons=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsdyd&layout=compact" alt="Most Used Languages" />
+</p>
 
----
 
 ### 📧 Contact
 <p>
