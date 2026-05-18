@@ -49,52 +49,6 @@
 <br>
 
 
-### 🚀 Projects
-
-<div align="left">
-
-<!-- Connected_M 프로젝트 시작 -->
-<table width="100%">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <!-- 💡 여기에 프로젝트 캡처 화면이나 GIF 링크를 넣어주세요 -->
-      <img src="https://via.placeholder.com/400x250?text=Connected_M+Preview" alt="Connected_M Thumbnail" width="100%" style="border-radius: 8px;"/>
-    </td>
-    <td width="60%" valign="top" style="padding-left: 15px;">
-      <h3>Connected_M <span style="font-size: 14px; font-weight: normal; color: #888;">(202X.XX ~ 202X.XX / 팀 또는 개인)</span></h3>
-      <p><strong>📌 한 줄 소개:</strong> 프로젝트에 대한 핵심 소개를 한 줄로 적어주세요. (예: ~을 위한 ~웹 서비스)</p>
-      <p><strong>💡 주요 기능 및 담당 역할:</strong></p>
-      <ul>
-        <li>(예시) React와 CSS3를 활용한 반응형 UI 컴포넌트 개발</li>
-        <li>(예시) 사용자 경험(UX) 개선을 위한 렌더링 최적화</li>
-        <li>여기에 직접 구현하신 기능이나 성과를 적어주세요!</li>
-      </ul>
-      <p><strong>🛠 Tech Stack:</strong> 
-        <!-- 💡 사용하신 스택만 남기고 지우시거나, 필요한 스택을 추가해 주세요 -->
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-      </p>
-      <p>
-        <!-- GitHub 레포지토리 링크 적용됨 -->
-        <a href="https://github.com/rjsdyd/Connected_M" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-        </a>
-        <!-- 💡 배포된 사이트가 있다면 주소를 수정하고, 없다면 이 <a> 태그를 삭제해 주세요 -->
-        <a href="https://여기에_배포_링크를_적어주세요" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<!-- Connected_M 프로젝트 끝 -->
-
-</div>
-
-<br>
-
-
 ### 📜 Certificates
 <div align="left">
 
