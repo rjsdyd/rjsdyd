@@ -49,6 +49,49 @@
 <br>
 
 
+### 🚀 Projects
+
+<div align="left">
+
+<!-- 프로젝트 1 시작 -->
+<table width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <!-- 프로젝트 썸네일 이미지 혹은 작동 GIF 링크를 넣어주세요 -->
+      <img src="https://via.placeholder.com/400x250" alt="Project Thumbnail" width="100%" style="border-radius: 8px;"/>
+    </td>
+    <td width="60%" valign="top" style="padding-left: 15px;">
+      <h3>프로젝트 이름 <span style="font-size: 14px; font-weight: normal; color: #888;">(2026.01 ~ 2026.02 / 4인 프로젝트)</span></h3>
+      <p><strong>📌 한 줄 소개:</strong> 프로젝트의 핵심 가치나 목적을 간단히 적어주세요.</p>
+      <p><strong>💡 주요 기능 및 담당 역할:</strong></p>
+      <ul>
+        <li>디자인 의도를 완벽히 반영한 반응형 웹 UI 컴포넌트 설계 및 구현</li>
+        <li>전역 상태 관리를 활용한 실시간 데이터 렌더링 최적화</li>
+      </ul>
+      <p><strong>🛠 Tech Stack:</strong> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+      <p>
+        <a href="https://github.com/rjsdyd/여기에_저장소_주소" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        </a>
+        <a href="https://여기에_배포_링크" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- 프로젝트 1 끝 -->
+
+<!-- 추가하고 싶은 프로젝트가 있다면 위 테이블 구조(<table>~</table>)를 복사해서 여기에 똑같이 붙여넣으면 됩니다. -->
+
+</div>
+
+<br>
+
+
 ### 📜 Certificates
 <div align="left">
 
