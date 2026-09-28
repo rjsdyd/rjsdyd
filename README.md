@@ -65,6 +65,7 @@
 
 * 🚀 **[Connected_M](https://github.com/rjsdyd/Connected_M)**
 * 🚀 **[CrossPad](https://github.com/rjsdyd/CrossPad)**
+* 🚀 **[CarDex](https://github.com/rjsdyd/CarDex)**
 </div>
 
 <br>
